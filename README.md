@@ -5,7 +5,7 @@ Let's go through some important onboarding information.
 ## Student Handbook
 
 [Student Handbook](https://github.com/flatiron-school-curriculum/remote-intro-onboarding-readme/blob/master/Flatiron-School-Student-Handbook-9-14.pdf?raw=true) should be signed and submitted to carley@flatironschool.com as soon as possible.
- 
+
 ## Github
 
 Github will soon be one of your most important social media profiles. It will be like a portfolio for others to see you work.
@@ -14,7 +14,7 @@ Be professional. Make your username something appropriate and include your full 
 
 ## Blogging
 
-We <3 blogging. It's important to showcase what you're learning and teach others at the same time. Teaching is one of the best ways to learn something, and blogging is a great way to teach! It also shows your involvement in the community by contributing knowledge. 
+We <3 blogging. It's important to showcase what you're learning and teach others at the same time. Teaching is one of the best ways to learn something, and blogging is a great way to teach! It also shows your involvement in the community by contributing knowledge.
 
 Have your blog on any platform that suits you, but if you're already blogging personally, we recommend keeping your technical blog separate. But use your best judgment.
 
@@ -40,7 +40,8 @@ Here are some great Flatiron student blogs:
 
 ## Getting Help
 
-When you're learning together during the day, you should be working on labs together and asking each other questions. 
+When you're learning together during the day, you should be working on labs together and asking each other questions.
 If you're stuck, try to work out a problem on your own. We guarantee that someone else has had a similar problem or question and you can most likely find an answer on Stack Overflow. It's super important to become self-sufficient in figuring out problems and there's incredible learning moments in that.
 
 Yet of course we're here to help and want you to reach out if you're stuck. It sometimes makes more sense to reach out, like if there's a bug in a lab or you've been stuck for a long time. We'll be using [Handraise](http://help.flatironschool.com/), a tool we've built at Flatiron so students can ask targeted questions while working on labs and projects. Click "Get Help" and submit a Handraise ticket. Please use Handraise as the exclusive method of communicating questions: we gather data with it that's super helpful for us when working on curriculum and thinking about points of confusion in our material.
+
