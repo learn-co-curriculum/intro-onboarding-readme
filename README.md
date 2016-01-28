@@ -45,4 +45,4 @@ If you're stuck, try to work out a problem on your own. We guarantee that someon
 
 Yet of course we're here to help and want you to reach out if you're stuck. It sometimes makes more sense to reach out, like if there's a bug in a lab or you've been stuck for a long time. You can get also get help from by clicking on the "Ask a Question" button, which will be broadcasted out to the whole class as well as the instructors. Give it a try, you might be surprised by how well it works!
 
-<a href='https://learn.co/lessons/intro-onboarding-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-onboarding-readme' title='Onboarding'>Onboarding</a> on Learn.co and start learning to code for free.</p>
