@@ -2,10 +2,6 @@
 
 Let's go through some important onboarding information.
 
-## Student Handbook
-
-[Student Handbook](https://github.com/learn-co-students/intro-onboarding-readme-web-0715/blob/master/Flatiron-School-Student-Handbook-9-14.pdf?raw=true) should be signed and submitted to jess.parker@flatironschool.com as soon as possible.
-
 ## Github
 
 Github will soon be one of your most important social media profiles. It will be like a portfolio for others to see you work.
@@ -43,6 +39,6 @@ Here are some great Flatiron student blogs:
 When you're learning together during the day, you should be working on labs together and asking each other questions.
 If you're stuck, try to work out a problem on your own. We guarantee that someone else has had a similar problem or question and you can most likely find an answer on Stack Overflow. It's super important to become self-sufficient in figuring out problems and there's incredible learning moments in that.
 
-Yet of course we're here to help and want you to reach out if you're stuck. It sometimes makes more sense to reach out, like if there's a bug in a lab or you've been stuck for a long time. You can get also get help from by clicking on the "Ask a Question" button, which will be broadcasted out to the whole class as well as the instructors. Give it a try, you might be surprised by how well it works!
+Yet of course we're here to help and want you to reach out if you're stuck. It sometimes makes more sense to reach out, like if there's a bug in a lab or you've been stuck for a long time. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-onboarding-readme' title='Onboarding'>Onboarding</a> on Learn.co and start learning to code for free.</p>
